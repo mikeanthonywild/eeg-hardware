@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetMCU_30 New Net Name=TXD
+Change Net Name : Old Net Name=NetMCU_31 New Net Name=RXD
+Added Room: Name=U_ADS1299
+Added Room: Name=U_Analogue_frontend
+Added Room: Name=U_Atmega328p
+Added Room: Name=U_LP590_LDO_Regulator
