@@ -252,6 +252,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for atmel328p_eeg_rev1\Design Rule Check - atmega328p_eeg_layout_rev1.html
 DItemRevisionGUID=
 
+[GeneratedDocument4]
+DocumentPath=Project Outputs for atmel328p_eeg_rev1\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0

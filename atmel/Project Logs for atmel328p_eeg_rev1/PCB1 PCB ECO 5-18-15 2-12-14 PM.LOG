@@ -1,0 +1,257 @@
+Added Component: Designator=*(R-PDSO-N6)
+Added Component: Designator=16MHz(HC-49U)
+Added Component: Designator=C1(0603)
+Added Component: Designator=C2(0603)
+Added Component: Designator=C3(0603)
+Added Component: Designator=C4(0603)
+Added Component: Designator=C5(0603)
+Added Component: Designator=C8(0603)
+Added Component: Designator=C9(0603)
+Added Component: Designator=C10(0603)
+Added Component: Designator=C11(0603)
+Added Component: Designator=C14(0603)
+Added Component: Designator=C15(0603)
+Added Component: Designator=C16(0603)
+Added Component: Designator=C17(0603)
+Added Component: Designator=C18(0603)
+Added Component: Designator=C19(0603)
+Added Component: Designator=C20(0603)
+Added Component: Designator=C21(0603)
+Added Component: Designator=C22(1608[0603])
+Added Component: Designator=C23(1608[0603])
+Added Component: Designator=C24(1608[0603])
+Added Component: Designator=C25(1608[0603])
+Added Component: Designator=D1(3.2X1.6X1.1)
+Added Component: Designator=D2(3.2X1.6X1.1)
+Added Component: Designator=D3(3.2X1.6X1.1)
+Added Component: Designator=JST_PH_confirm_polarity(S2B-EH)
+Added Component: Designator=LDO Regulator_confirm_functionality(DBV005_N)
+Added Component: Designator=MCU(32A_N)
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=P2(HDR1X6)
+Added Component: Designator=P3(HDR1X6)
+Added Component: Designator=R1(0603)
+Added Component: Designator=R2(0603)
+Added Component: Designator=R3(0603)
+Added Component: Designator=R4(0603)
+Added Component: Designator=R5(0603)
+Added Component: Designator=R6(0603)
+Added Component: Designator=R7(J1-0603)
+Added Component: Designator=R8(J1-0603)
+Added Component: Designator=R9(J1-0603)
+Added Component: Designator=R10(J1-0603)
+Added Component: Designator=R11(0603)
+Added Component: Designator=S1(SPST-2)
+Added Component: Designator=U1(TQFP-PT64_N)
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=3V3 Pin=C8-2
+Added Pin To Net: NetName=3V3 Pin=C9-2
+Added Pin To Net: NetName=3V3 Pin=C21-2
+Added Pin To Net: NetName=3V3 Pin=LDO Regulator_confirm_functionality-5
+Added Pin To Net: NetName=3V3 Pin=MCU-4
+Added Pin To Net: NetName=3V3 Pin=MCU-18
+Added Pin To Net: NetName=3V3 Pin=P2-3
+Added Pin To Net: NetName=3V3 Pin=P3-2
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=U1-1
+Added Pin To Net: NetName=3V3 Pin=U1-2
+Added Pin To Net: NetName=3V3 Pin=U1-3
+Added Pin To Net: NetName=3V3 Pin=U1-4
+Added Pin To Net: NetName=3V3 Pin=U1-5
+Added Pin To Net: NetName=3V3 Pin=U1-6
+Added Pin To Net: NetName=3V3 Pin=U1-7
+Added Pin To Net: NetName=3V3 Pin=U1-8
+Added Pin To Net: NetName=3V3 Pin=U1-9
+Added Pin To Net: NetName=3V3 Pin=U1-10
+Added Pin To Net: NetName=3V3 Pin=U1-11
+Added Pin To Net: NetName=3V3 Pin=U1-12
+Added Pin To Net: NetName=3V3 Pin=U1-13
+Added Pin To Net: NetName=3V3 Pin=U1-14
+Added Pin To Net: NetName=3V3 Pin=U1-19
+Added Pin To Net: NetName=3V3 Pin=U1-21
+Added Pin To Net: NetName=3V3 Pin=U1-22
+Added Pin To Net: NetName=3V3 Pin=U1-35
+Added Pin To Net: NetName=3V3 Pin=U1-48
+Added Pin To Net: NetName=3V3 Pin=U1-50
+Added Pin To Net: NetName=3V3 Pin=U1-52
+Added Pin To Net: NetName=3V3 Pin=U1-54
+Added Pin To Net: NetName=3V3 Pin=U1-56
+Added Pin To Net: NetName=3V3 Pin=U1-59
+Added Net: Name=3V3
+Added Pin To Net: NetName=BIAS_DRV Pin=*-1
+Added Pin To Net: NetName=BIAS_DRV Pin=C19-2
+Added Pin To Net: NetName=BIAS_DRV Pin=C25-2
+Added Pin To Net: NetName=BIAS_DRV Pin=P1-4
+Added Pin To Net: NetName=BIAS_DRV Pin=R6-2
+Added Pin To Net: NetName=BIAS_DRV Pin=R7-1
+Added Pin To Net: NetName=BIAS_DRV Pin=R7-2
+Added Net: Name=BIAS_DRV
+Added Pin To Net: NetName=CS Pin=MCU-14
+Added Pin To Net: NetName=CS Pin=U1-39
+Added Net: Name=CS
+Added Pin To Net: NetName=D\R\D\Y Pin=MCU-26
+Added Pin To Net: NetName=D\R\D\Y Pin=U1-47
+Added Net: Name=D\R\D\Y
+Added Pin To Net: NetName=DAISY IN Pin=*-2
+Added Pin To Net: NetName=DAISY IN Pin=C1-1
+Added Pin To Net: NetName=DAISY IN Pin=C2-1
+Added Pin To Net: NetName=DAISY IN Pin=C3-1
+Added Pin To Net: NetName=DAISY IN Pin=C4-1
+Added Pin To Net: NetName=DAISY IN Pin=C5-1
+Added Pin To Net: NetName=DAISY IN Pin=C8-1
+Added Pin To Net: NetName=DAISY IN Pin=C9-1
+Added Pin To Net: NetName=DAISY IN Pin=C10-2
+Added Pin To Net: NetName=DAISY IN Pin=C11-2
+Added Pin To Net: NetName=DAISY IN Pin=C14-1
+Added Pin To Net: NetName=DAISY IN Pin=C15-1
+Added Pin To Net: NetName=DAISY IN Pin=C16-1
+Added Pin To Net: NetName=DAISY IN Pin=C17-1
+Added Pin To Net: NetName=DAISY IN Pin=C18-1
+Added Pin To Net: NetName=DAISY IN Pin=C20-1
+Added Pin To Net: NetName=DAISY IN Pin=C21-1
+Added Pin To Net: NetName=DAISY IN Pin=C22-1
+Added Pin To Net: NetName=DAISY IN Pin=C23-1
+Added Pin To Net: NetName=DAISY IN Pin=C24-1
+Added Pin To Net: NetName=DAISY IN Pin=C25-1
+Added Pin To Net: NetName=DAISY IN Pin=JST_PH_confirm_polarity-2
+Added Pin To Net: NetName=DAISY IN Pin=LDO Regulator_confirm_functionality-2
+Added Pin To Net: NetName=DAISY IN Pin=MCU-3
+Added Pin To Net: NetName=DAISY IN Pin=MCU-5
+Added Pin To Net: NetName=DAISY IN Pin=MCU-21
+Added Pin To Net: NetName=DAISY IN Pin=P2-1
+Added Pin To Net: NetName=DAISY IN Pin=P2-2
+Added Pin To Net: NetName=DAISY IN Pin=P3-1
+Added Pin To Net: NetName=DAISY IN Pin=P3-3
+Added Pin To Net: NetName=DAISY IN Pin=R1-1
+Added Pin To Net: NetName=DAISY IN Pin=R2-1
+Added Pin To Net: NetName=DAISY IN Pin=R3-1
+Added Pin To Net: NetName=DAISY IN Pin=S1-2
+Added Pin To Net: NetName=DAISY IN Pin=U1-20
+Added Pin To Net: NetName=DAISY IN Pin=U1-23
+Added Pin To Net: NetName=DAISY IN Pin=U1-25
+Added Pin To Net: NetName=DAISY IN Pin=U1-31
+Added Pin To Net: NetName=DAISY IN Pin=U1-32
+Added Pin To Net: NetName=DAISY IN Pin=U1-33
+Added Pin To Net: NetName=DAISY IN Pin=U1-41
+Added Pin To Net: NetName=DAISY IN Pin=U1-49
+Added Pin To Net: NetName=DAISY IN Pin=U1-51
+Added Pin To Net: NetName=DAISY IN Pin=U1-53
+Added Pin To Net: NetName=DAISY IN Pin=U1-57
+Added Pin To Net: NetName=DAISY IN Pin=U1-58
+Added Pin To Net: NetName=DAISY IN Pin=U1-60
+Added Pin To Net: NetName=DAISY IN Pin=U1-64
+Added Net: Name=DAISY IN
+Added Pin To Net: NetName=IN1N Pin=*-3
+Added Pin To Net: NetName=IN1N Pin=P1-3
+Added Pin To Net: NetName=IN1N Pin=R8-1
+Added Net: Name=IN1N
+Added Pin To Net: NetName=IN1P Pin=*-4
+Added Pin To Net: NetName=IN1P Pin=P1-2
+Added Pin To Net: NetName=IN1P Pin=R9-1
+Added Net: Name=IN1P
+Added Pin To Net: NetName=MISO Pin=MCU-16
+Added Pin To Net: NetName=MISO Pin=U1-43
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=MCU-15
+Added Pin To Net: NetName=MOSI Pin=U1-34
+Added Net: Name=MOSI
+Added Pin To Net: NetName=Net16MHz_1 Pin=16MHz-1
+Added Pin To Net: NetName=Net16MHz_1 Pin=C4-2
+Added Pin To Net: NetName=Net16MHz_1 Pin=MCU-8
+Added Net: Name=Net16MHz_1
+Added Pin To Net: NetName=Net16MHz_2 Pin=16MHz-2
+Added Pin To Net: NetName=Net16MHz_2 Pin=C5-2
+Added Pin To Net: NetName=Net16MHz_2 Pin=MCU-7
+Added Net: Name=Net16MHz_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=MCU-20
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=C11-1
+Added Pin To Net: NetName=NetC10_1 Pin=U1-24
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=U1-26
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=C16-2
+Added Pin To Net: NetName=NetC15_2 Pin=U1-55
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=U1-30
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=U1-28
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=R6-1
+Added Pin To Net: NetName=NetC19_1 Pin=U1-62
+Added Pin To Net: NetName=NetC19_1 Pin=U1-63
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=R9-2
+Added Pin To Net: NetName=NetC23_2 Pin=U1-16
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=R8-2
+Added Pin To Net: NetName=NetC24_2 Pin=U1-15
+Added Net: Name=NetC24_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=MCU-23
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=MCU-24
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R2-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=MCU-25
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R3-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4
+Added Pin To Net: NetName=NetP3_4 Pin=R11-2
+Added Net: Name=NetP3_4
+Added Pin To Net: NetName=NetP3_5 Pin=P3-5
+Added Pin To Net: NetName=NetP3_5 Pin=R5-2
+Added Net: Name=NetP3_5
+Added Pin To Net: NetName=R\E\S\E\T Pin=MCU-29
+Added Pin To Net: NetName=R\E\S\E\T Pin=P2-6
+Added Pin To Net: NetName=R\E\S\E\T Pin=P3-6
+Added Pin To Net: NetName=R\E\S\E\T Pin=R4-1
+Added Pin To Net: NetName=R\E\S\E\T Pin=S1-1
+Added Pin To Net: NetName=R\E\S\E\T Pin=U1-36
+Added Net: Name=R\E\S\E\T
+Added Pin To Net: NetName=RAW Pin=C20-2
+Added Pin To Net: NetName=RAW Pin=JST_PH_confirm_polarity-1
+Added Pin To Net: NetName=RAW Pin=LDO Regulator_confirm_functionality-1
+Added Pin To Net: NetName=RAW Pin=LDO Regulator_confirm_functionality-3
+Added Net: Name=RAW
+Added Pin To Net: NetName=RX Pin=MCU-31
+Added Pin To Net: NetName=RX Pin=P2-5
+Added Pin To Net: NetName=RX Pin=R5-1
+Added Net: Name=RX
+Added Pin To Net: NetName=SCLK Pin=MCU-17
+Added Pin To Net: NetName=SCLK Pin=U1-40
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SRB2 Pin=*-6
+Added Pin To Net: NetName=SRB2 Pin=C22-2
+Added Pin To Net: NetName=SRB2 Pin=P1-1
+Added Pin To Net: NetName=SRB2 Pin=R10-1
+Added Pin To Net: NetName=SRB2 Pin=R10-2
+Added Pin To Net: NetName=SRB2 Pin=U1-18
+Added Net: Name=SRB2
+Added Pin To Net: NetName=TX Pin=MCU-30
+Added Pin To Net: NetName=TX Pin=P2-4
+Added Pin To Net: NetName=TX Pin=R11-1
+Added Net: Name=TX
+Added Class: Name=U_ADS1299
+Added Class: Name=U_Analogue_frontend
+Added Class: Name=U_Atmega328p
+Added Class: Name=U_LP590_LDO_Regulator
