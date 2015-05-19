@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SRB2 Pin=P1-1
+Removed Pin From Net: NetName=BIAS_DRV Pin=P1-4
+Removed Pin From Net: NetName=BIAS_DRV Pin=R7-1
+Removed Pin From Net: NetName=SRB2 Pin=R10-1
+Removed Pin From Net: NetName=BIAS_DRV Pin=U3-1
+Removed Pin From Net: NetName=SRB2 Pin=U3-6
+Change Component Designator: OldDesignator=U3 NewDesignator=*
+Added Member To Class: ClassName=U_Atmega328p Member=Component 16MHz ECS-10-13-1
+Added Room: Name=U_ADS1299
+Added Room: Name=U_Analogue_frontend
+Added Room: Name=U_Atmega328p
+Added Room: Name=U_LP590_LDO_Regulator

@@ -1,0 +1,10 @@
+Change Net Name : Old Net Name=BIAS_DRV New Net Name=NetC19_2
+Change Net Name : Old Net Name=SRB2 New Net Name=NetC22_2
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=P1-4
+Added Pin To Net: NetName=Net*_1 Pin=R7-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=SRB2 Pin=*-6
+Added Pin To Net: NetName=SRB2 Pin=P1-1
+Added Pin To Net: NetName=SRB2 Pin=R10-1
+Added Net: Name=SRB2

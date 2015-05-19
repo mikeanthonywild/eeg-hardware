@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=SRB2 Pin=C22-2
+Removed Pin From Net: NetName=BIAS_DRV Pin=P1-4
+Removed Pin From Net: NetName=BIAS_DRV Pin=R7-1
+Removed Pin From Net: NetName=SRB2 Pin=R10-2
+Removed Pin From Net: NetName=SRB2 Pin=U1-18
+Removed Pin From Net: NetName=BIAS_DRV Pin=U3-1
+Change Net Name : Old Net Name=BIAS_DRV New Net Name=NetC19_2
+Added Pin To Net: NetName=BIAS_DRV Pin=P1-4
+Added Pin To Net: NetName=BIAS_DRV Pin=R7-1
+Added Pin To Net: NetName=BIAS_DRV Pin=U3-1
+Added Net: Name=BIAS_DRV
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=R10-2
+Added Pin To Net: NetName=NetC22_2 Pin=U1-18
+Added Net: Name=NetC22_2
+Added Member To Class: ClassName=U_Atmega328p Member=Component 16MHz ECS-10-13-1
+Added Room: Name=U_ADS1299
+Added Room: Name=U_Analogue_frontend
+Added Room: Name=U_Atmega328p
+Added Room: Name=U_LP590_LDO_Regulator
