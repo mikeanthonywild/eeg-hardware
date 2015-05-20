@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U3 Old Footprint=R-PDSO-N6 New Footprint=TPD4E1B06_4th_attempt
+Change Component Designator: OldDesignator=JST_PH NewDesignator=JST_PH_confirm_polarity
+Change Component Designator: OldDesignator=LDO NewDesignator=LDO Regulator_confirm_functionality
