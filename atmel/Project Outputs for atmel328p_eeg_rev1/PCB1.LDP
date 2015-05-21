@@ -1,0 +1,6 @@
+Layer Pairs Export File for PCB: \\psf\Home\Desktop\eeg-hardware\atmel\PCB1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb1.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_GND_Blind_Vias|DrillFile=|LayerPairs=gtl,gp1
+LayersSetName=Top_3V3_Blind_Vias|DrillFile=|LayerPairs=gtl,gp1,gp2
+LayersSetName=GND_Bot_Blind_Vias|DrillFile=|LayerPairs=
+LayersSetName=3V3_Bot_Blind_Vias|DrillFile=|LayerPairs=
